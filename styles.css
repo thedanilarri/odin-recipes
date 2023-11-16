@@ -1,0 +1,10 @@
+* {background-color: pink;}
+
+h1, p, ul {text-align: center}
+h1 {background-image: url("img/header.jpg");
+    background-color: turquoise;
+    background-position: 50% 25%;
+   
+    height: 100px}
+
+
